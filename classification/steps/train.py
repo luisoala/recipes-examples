@@ -17,4 +17,4 @@ def estimator_fn(estimator_params: Dict[str, Any] = None):
 
     if estimator_params is None:
         estimator_params = {}
-    return SGDClassifier(random_state=42, **estimator_params)
+    return SGDClassifier(random_state=47, **estimator_params)
