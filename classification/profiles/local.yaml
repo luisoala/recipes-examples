@@ -1,5 +1,5 @@
 experiment:
-  name: "sklearn_classification_experiment"
+  name: "arianne"
   tracking_uri: "http://mlflo-mlflo-pnfmv19l0euw-17de8114f3d199f8.elb.eu-central-1.amazonaws.com"
   artifact_location: "s3://mlflow-artifacts-587941475940"
 
