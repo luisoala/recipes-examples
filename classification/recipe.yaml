@@ -47,7 +47,7 @@ steps:
   register:
     # Indicates whether or not a model that fails to meet performance thresholds should still
     # be registered to the MLflow Model Registry
-    allow_non_validated_model: true
+    allow_non_validated_model: True
   ingest_scoring: {{INGEST_SCORING_CONFIG}}
   predict:
     output: {{PREDICT_OUTPUT_CONFIG}}
