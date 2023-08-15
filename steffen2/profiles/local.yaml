@@ -1,5 +1,5 @@
 experiment:
-  name: "christoph"
+  name: "steffen2"
   tracking_uri: "http://mlflo-mlflo-1c0kdla30mx9s-e5e76cb7d6e37873.elb.eu-central-1.amazonaws.com"
   artifact_location: "s3://mlflow-artifacts-587941475940"
 
