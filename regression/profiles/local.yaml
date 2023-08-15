@@ -1,6 +1,6 @@
 experiment:
   name: "christoph"
-  tracking_uri: "http://mlflo-mlflo-pnfmv19l0euw-17de8114f3d199f8.elb.eu-central-1.amazonaws.com"
+  tracking_uri: "http://mlflo-mlflo-1c0kdla30mx9s-e5e76cb7d6e37873.elb.eu-central-1.amazonaws.com"
   artifact_location: "s3://mlflow-artifacts-587941475940"
 
 # Set the registry server URI. This property is especially useful if you have a registry
